@@ -1,0 +1,25 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "App to mantaining a list of todo thinks",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonasRodon/todo-app.git"
+  },
+  "keywords": [
+    "to",
+    "do",
+    "check",
+    "list"
+  ],
+  "author": "Jonas Rodon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonasRodon/todo-app/issues"
+  },
+  "homepage": "https://github.com/JonasRodon/todo-app#readme"
+}
